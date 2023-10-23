@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 header{
     Background-color:#FF0000;
     height: 70px;
+=======
+header {
+    background-color:#FF0000;
+    height:70px;
+>>>>>>> d1b0663103b420cb666d8f41560886820125c407
     width:100%;
 }
